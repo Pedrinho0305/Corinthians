@@ -1,0 +1,31 @@
+* {
+    font-size: x-large;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+body {
+    text-align: center;
+   
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-inline: 300px;
+   background-color: black;
+}
+
+div {
+    background-color: whitesmoke;
+    border-color: white;
+    border-style: ridge;
+    border-radius: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-inline: 25px;
+}
+
+img {
+    border-radius: 20px;
+}
+
